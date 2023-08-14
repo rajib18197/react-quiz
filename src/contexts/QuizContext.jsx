@@ -181,7 +181,7 @@ function reducer(state, action) {
   }
 }
 
-const API_URL = "http://localhost:9000";
+const API_URL = "https://react-quiz-umi6.onrender.com";
 
 export default function QuizContextProvider({ children }) {
   // prettier-ignore
